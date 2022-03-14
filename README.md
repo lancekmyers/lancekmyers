@@ -8,5 +8,5 @@
   - Quantum computing
 
 Feel free to check out my website [lancekmyers.com](lancekmyers.com) to see my work on some of these topics.
-I'm also a hug basketball fan, and run (bayesketball.com)[bayesketball.com], a website feaaturing bayesian basketball statistics.
+I'm also a hug basketball fan, and run [bayesketball](bayesketball.netlify.com), a website featuring bayesian basketball statistics.
 
